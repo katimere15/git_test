@@ -1,0 +1,4 @@
+$git add .          -- 모든 파일을 git에 추가
+$git status         -- 파일의 변경점 알아보기
+$git commit -m "메세지 아무거나"   -- 깃 허브로 보낼때의 메시지 
+$git push origin main -- github에 업로드
